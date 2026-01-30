@@ -1,4 +1,4 @@
-#👋 Hi, I'm Prerna, a passionate full-stack developer specializing in building high-performance, user-focused web applications."
+👋 Hi, I'm Prerna, a passionate full-stack developer specializing in building high-performance, user-focused web applications."
 # 💫 About Me:
 🔭 Currently learning MERN Full-Stack Web Development<br>🌱 Working on backend APIs using Node.js, Express & MongoDB<br>👯 Looking to collaborate on MERN & open-source projects<br>💬 Ask me about JavaScript, Node.js, REST APIs & Git<br>⚡ Fun fact: I love building things from scratch
 
