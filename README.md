@@ -1,4 +1,4 @@
-#Prerna Sharma
+# Prerna Sharma
 ### Software Engineer
 I’m a passionate **Software Engineer** with a strong interest in building performant, scalable, and intuitive web applications that deliver great user experiences.
 # 💫 About Me:
