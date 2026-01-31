@@ -1,4 +1,6 @@
-👋 Hi, I'm Prerna, a passionate full-stack developer specializing in building high-performance, user-focused web applications."
+#Prerna Sharma
+### Software Engineer
+I’m a passionate **Software Engineer** with a strong interest in building performant, scalable, and intuitive web applications that deliver great user experiences.
 # 💫 About Me:
 🔭 Currently learning MERN Full-Stack Web Development<br>🌱 Working on backend APIs using Node.js, Express & MongoDB<br>👯 Looking to collaborate on MERN & open-source projects<br>💬 Ask me about JavaScript, Node.js, REST APIs & Git<br>⚡ Fun fact: I love building things from scratch
 
